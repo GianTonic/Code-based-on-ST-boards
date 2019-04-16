@@ -5,7 +5,7 @@ STEP:
 
 - Configure in the STM32 Core (NUCLEO-F401RE) the PA10 pin in output
 - Set the PC6 pin as input in the STM32F3Discovery
-- Connect the two pins of the boards with a wire (see next slide figure)
+- Connect the two pins of the boards with a wire 
 Description:
 1. The key of the STM32 Core is used as start / stop.
 a) When the blue button is pressed, the LED button will bring up the value of PA10;
