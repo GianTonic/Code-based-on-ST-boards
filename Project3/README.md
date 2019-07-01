@@ -6,8 +6,8 @@ board:NUCLEO-F401RE
 
 The board is connected with my laptop.
 Every time a message arrives from the UART, an interrupt is generated to manage the command.
-Message format:
 
+Message format:
 PINxy
 
 with:
