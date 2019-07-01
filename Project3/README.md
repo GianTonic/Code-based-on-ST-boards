@@ -1,5 +1,6 @@
 # Code-based-on-ST-boards
 COMMAND FROM UART2
+
 board:NUCLEO-F401RE
 
 
