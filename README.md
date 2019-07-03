@@ -1,6 +1,5 @@
 # Code based on ST boards
 
-These projects have been developed with the support of the graphic tool STM32CubeMX.
 
 Project 1: Communication beetwen NUCLEO-F401RE and STM32F3Discovery.
 
