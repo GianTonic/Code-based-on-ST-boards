@@ -10,9 +10,9 @@ PINxy
 
 with:
 
--x = 1.2 (to indicate the first or second pin)
+-x = 1 or 2 (to indicate the first or second pin)
 
--y = 0.1 respectively low or high
+-y = 0 or 1 respectively low or high
 
 -y = Y toggle
 
